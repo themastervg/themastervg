@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **JS, HTML, CSS, DISCORD.JS**
 
-- 📫 How to reach me **vijaygoutamwork@gmail.com**
-
 - ⚡ Fun fact **I don't know**
 
 <h3 align="left">Connect with me:</h3>
