@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Some Py Projects**
 
-- 👨‍💻 All of my projects are available at [https://info.themastervg.xyz](https://info.themastervg.xyz)
-
 - 💬 Ask me about **JS, HTML, CSS, DISCORD.JS**
 
 - ⚡ Fun fact **I don't know**
