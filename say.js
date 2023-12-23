@@ -11,7 +11,13 @@ module.exports = {
         if (!message) {
             return interaction.reply({ content: 'Please provide a message to send.' });
         }
-
+ try {
+            await channel.send(message);
+            await interaction.reply({ content: 'Message sent!' });
+        } catch (error) {
+            console.error('Error sending message:', error);
+            await interaction.reply({ content: 'There was an error sending the message.' });
+        }
        
     },
 };
