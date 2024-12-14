@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="167" src="https://cdn.discordapp.com/attachments/1183515275098849311/1185043255851749468/Blue_Tosca_Geometric_Technology_Linkedln_Banner.png?ex=658e2c89&is=657bb789&hm=f4b7276a4163f62e3970e7991111dfcdf32c9b41199a0d87003fccbec697b14a&"  />
+
 </div>
 
 ###
